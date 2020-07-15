@@ -1,1 +1,5 @@
-= Profile?
+== Stats
+image:https://github-readme-stats.vercel.app/api?username=kPherox[alt=github-stats,link=https://github.com/kPherox]
+
+=== WakaTime
+image:https://wakatime.com/share/@kPherox/d5d5ddb0-d417-4bdb-aaa5-2d42d140a0d2.svg[width=640,alt=wakatime-languages,link=https://wakatime.com/@kPherox]
