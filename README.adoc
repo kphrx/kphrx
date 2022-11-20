@@ -1,4 +1,19 @@
-== Stats
-image::https://github-readme-stats.vercel.app/api/wakatime?title_color=8957b2&icon_color=70a5fd&text_color=df6d74&bg_color=00000000&border_color=70a5fd&border_radius=0&layout=compact&card_width=495&langs_count=6&range=last_7_days&username=kphrx[alt=wakatime-stats,link=https://wakatime.com/@kphrx]
-image:https://github-readme-stats-kphrx.vercel.app/api?title_color=8957b2&icon_color=70a5fd&text_color=df6d74&bg_color=00000000&border_color=8eb573&border_radius=0&card_width=495&count_private=true&show_icons=true&username=kphrx[alt=github-stats,link=https://github.com/kphrx]
-image:https://github-readme-stats-7vlsc5n0x-kitswas.vercel.app/api/top-langs/?title_color=8957b2&icon_color=70a5fd&text_color=df6d74&bg_color=00000000&border_color=70a5fd&border_radius=0&layout=compact&card_width=295&langs_count=8&username=kphrx&exclude_repo=pleroma,pleroma-fe,netlify-410,blog,myfleet-gh-pages[alt=github-used-languages,link=https://github.com/kphrx]
+== https://github.com/jstrieb/github-stats[GitHub Stats Visualization]
+image:https://raw.githubusercontent.com/kphrx/github-stats/master/generated/overview.svg#gh-light-mode-only[alt=github-stats]
+image:https://raw.githubusercontent.com/kphrx/github-stats/master/generated/overview.svg#gh-dark-mode-only[alt=github-stats]
+image:https://raw.githubusercontent.com/kphrx/github-stats/master/generated/languages.svg#gh-light-mode-only[alt=github-stats-languages]
+image:https://raw.githubusercontent.com/kphrx/github-stats/master/generated/languages.svg#gh-dark-mode-only[alt=github-stats-languages]
+
+== https://github.com/anuraghazra/github-readme-stats[GitHub Readme Stats]
+image:https://github-readme-stats-kphrx.vercel.app/api?username=kphrx&icon_color=586069&bg_color=00000000&card_width=360&layout=compact&show_icons=true&count_private=true[alt=github-readme-stats,link=.#gh-light-mode-only]
+image:https://github-readme-stats-kphrx.vercel.app/api?username=kphrx&theme=github_dark&border_color=41454b&icon_color=8b949e&bg_color=00000000&&card_width=360&layout=compact&show_icons=true&count_private=true[alt=github-readme-stats,link=.#gh-dark-mode-only]
+image:https://github-readme-stats-kitswas.vercel.app/api/top-langs?username=kphrx&bg_color=00000000&card_width=310&layout=compact&langs_count=10&exclude_repo=pleroma,pleroma-fe,netlify-410,myfleet-gh-pages[alt=github-readme-stats-top-langs,link=.#gh-light-mode-only]
+image:https://github-readme-stats-kitswas.vercel.app/api/top-langs?username=kphrx&theme=github_dark&border_color=41454b&bg_color=00000000&card_width=310&layout=compact&langs_count=10&exclude_repo=pleroma,pleroma-fe,netlify-410,myfleet-gh-pages[alt=github-readme-stats-top-langs,link=.#gh-dark-mode-only]
+
+=== https://wakatime.com/@kphrx[Wakatime]
+image:https://github-readme-stats.vercel.app/api/wakatime?username=kphrx&bg_color=00000000&layout=compact&langs_count=8&range=last_7_days[alt=github-readme-stats,link=.#gh-light-mode-only]
+image:https://github-readme-stats.vercel.app/api/wakatime?username=kphrx&theme=github_dark&border_color=41454b&bg_color=00000000&layout=compact&langs_count=8&range=last_7_days[alt=github-readme-stats,link=.#gh-dark-mode-only]
+
+== https://github.com/ryo-ma/github-profile-trophy[GitHub Profile Trophy]
+image:https://github-profile-trophy.vercel.app/?username=kphrx&theme=flat&no-bg=true&no-frame=true&column=4[alt=github-profile-trophy,link=.#gh-light-mode-only]
+image:https://github-profile-trophy.vercel.app/?username=kphrx&theme=darkhub&no-bg=true&no-frame=true&column=4[alt=github-profile-trophy,link=.#gh-dark-mode-only]
