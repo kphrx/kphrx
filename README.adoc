@@ -29,9 +29,9 @@
   <img alt="github-readme-stats" src="https://github-readme-stats-kphrx.vercel.app/api?username=kphrx&icon_color=586069&bg_color=00000000&card_width=360&layout=compact&show_icons=true&count_private=true">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kphrx.vercel.app/api/top-langs?username=kphrx&theme=github_dark&border_color=41454b&bg_color=00000000&card_width=310&layout=compact&langs_count=10&p=0.3&q=0.5&exclude_repo=pleroma%2Cpleroma-fe%2Cnetlify-410%2Cmyfleet-gh-pages">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kphrx.vercel.app/api/top-langs?username=kphrx&bg_color=00000000&card_width=310&layout=compact&langs_count=10&p=0.3&q=0.5&exclude_repo=pleroma%2Cpleroma-fe%2Cnetlify-410%2Cmyfleet-gh-pages">
-  <img alt="github-readme-stats top-langs" src="https://github-readme-stats-kphrx.vercel.app/api/top-langs?username=kphrx&bg_color=00000000&card_width=310&layout=compact&langs_count=10&p=0.3&q=0.5&exclude_repo=pleroma%2Cpleroma-fe%2Cnetlify-410%2Cmyfleet-gh-pages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kphrx.vercel.app/api/top-langs?username=kphrx&theme=github_dark&border_color=41454b&bg_color=00000000&card_width=310&layout=compact&langs_count=10&p=0.3&q=0.5&exclude_repo=pleroma%2Cpleroma-fe%2Cnetlify-410%2CMBSSpotlights%2CTheDesk%2CTheDesk-Vue%2Cgithub-stats">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kphrx.vercel.app/api/top-langs?username=kphrx&bg_color=00000000&card_width=310&layout=compact&langs_count=10&p=0.3&q=0.4&exclude_repo=pleroma%2Cpleroma-fe%2Cnetlify-410%2CMBSSpotlights%2CTheDesk%2CTheDesk-Vue%2Cgithub-stats">
+  <img alt="github-readme-stats top-langs" src="https://github-readme-stats-kphrx.vercel.app/api/top-langs?username=kphrx&bg_color=00000000&card_width=310&layout=compact&langs_count=10&p=0.3&q=0.4&exclude_repo=pleroma%2Cpleroma-fe%2Cnetlify-410%2CMBSSpotlights%2CTheDesk%2CTheDesk-Vue%2Cgithub-stats">
 </picture>
 +++
 
