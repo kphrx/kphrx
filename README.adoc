@@ -29,8 +29,8 @@
   <img alt="github-readme-stats" src="https://github-readme-stats-kphrx.vercel.app/api?username=kphrx&icon_color=586069&bg_color=00000000&card_width=360&layout=compact&show_icons=true&count_private=true">
 </picture>
 +++
-image:https://github-readme-stats-kitswas.vercel.app/api/top-langs?username=kphrx&bg_color=00000000&card_width=310&layout=compact&langs_count=10&exclude_repo=pleroma,pleroma-fe,netlify-410,myfleet-gh-pages[alt=github-readme-stats top-langs,link=README.adoc#gh-light-mode-only]
-image:https://github-readme-stats-kitswas.vercel.app/api/top-langs?username=kphrx&theme=github_dark&border_color=41454b&bg_color=00000000&card_width=310&layout=compact&langs_count=10&exclude_repo=pleroma,pleroma-fe,netlify-410,myfleet-gh-pages[alt=github-readme-stats top-langs,link=README.adoc#gh-dark-mode-only]
+image:https://github-readme-stats-kitswas.vercel.app/api/top-langs?username=kphrx&bg_color=00000000&card_width=310&layout=compact&langs_count=10&exclude_repo=pleroma,pleroma-fe,netlify-410,myfleet-gh-pages&p=0.3&q=0.5[alt=github-readme-stats top-langs,link=README.adoc#gh-light-mode-only]
+image:https://github-readme-stats-kitswas.vercel.app/api/top-langs?username=kphrx&theme=github_dark&border_color=41454b&bg_color=00000000&card_width=310&layout=compact&langs_count=10&exclude_repo=pleroma,pleroma-fe,netlify-410,myfleet-gh-pages&p=0.3&q=0.5[alt=github-readme-stats top-langs,link=README.adoc#gh-dark-mode-only]
 
 === https://wakatime.com/@kphrx[Wakatime]
 +++
