@@ -5,7 +5,7 @@ whoami -> https://kpherox.dev
 == Some Stats
 ++++
 <details>
-<summary>test</summary>
+<summary>Images</summary>
 ++++
 
 === https://github.com/ryo-ma/github-profile-trophy[GitHub Profile Trophy]
