@@ -1,14 +1,33 @@
-== https://github.com/ryo-ma/github-profile-trophy[GitHub Profile Trophy]
-+++
+= https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme[Profile README]
+
+whoami -> https://kpherox.dev
+
+== Some Stats
+++++
+<details>
+<summary>test</summary>
+++++
+
+=== https://github.com/ryo-ma/github-profile-trophy[GitHub Profile Trophy]
++++++
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=kphrx&theme=darkhub&no-bg=true&no-frame=true&column=4">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=kphrx&theme=flat&no-bg=true&no-frame=true&column=4">
   <img alt="github-profile-trophy" src="https://github-profile-trophy.vercel.app/?username=kphrx&theme=flat&no-bg=true&no-frame=true&column=4">
 </picture>
-+++
++++++
 
-== https://github.com/jstrieb/github-stats[GitHub Stats Visualization]
-+++
+=== https://github.com/denvercoder1/github-readme-streak-stats[GitHub Readme Streak Stats]
++++++
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kphrx&theme=dark&background=transparent&hide_border=true&date_format=%5BY-%5Dm-d">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kphrx&background=transparent&hide_border=true">
+  <img alt="github-profile-trophy" src="https://streak-stats.demolab.com/?user=kphrx&background=transparent&hide_border=true">
+</picture>
++++++
+
+=== https://github.com/jstrieb/github-stats[GitHub Stats Visualization]
++++++
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kphrx/github-stats/master/generated/overview.svg#gh-dark-mode-only">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kphrx/github-stats/master/generated/overview.svg#gh-light-mode-only">
@@ -19,10 +38,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kphrx/github-stats/master/generated/languages.svg#gh-light-mode-only">
   <img alt="github-stats languages" src="https://raw.githubusercontent.com/kphrx/github-stats/master/generated/languages.svg">
 </picture>
-+++
++++++
 
-== https://github.com/anuraghazra/github-readme-stats[GitHub Readme Stats]
-+++
+=== https://github.com/anuraghazra/github-readme-stats[GitHub Readme Stats]
++++++
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kphrx.vercel.app/api?username=kphrx&theme=github_dark&border_color=41454b&icon_color=8b949e&bg_color=00000000&&card_width=360&layout=compact&show_icons=true&count_private=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kphrx.vercel.app/api?username=kphrx&icon_color=586069&bg_color=00000000&card_width=360&layout=compact&show_icons=true&count_private=true">
@@ -33,13 +52,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kphrx.vercel.app/api/top-langs?username=kphrx&bg_color=00000000&card_width=310&layout=compact&langs_count=10&p=0.3&q=0.4&exclude_repo=pleroma%2Cpleroma-fe%2Cnetlify-410%2CMBSSpotlights%2CTheDesk%2CTheDesk-Vue%2Cgithub-stats">
   <img alt="github-readme-stats top-langs" src="https://github-readme-stats-kphrx.vercel.app/api/top-langs?username=kphrx&bg_color=00000000&card_width=310&layout=compact&langs_count=10&p=0.3&q=0.4&exclude_repo=pleroma%2Cpleroma-fe%2Cnetlify-410%2CMBSSpotlights%2CTheDesk%2CTheDesk-Vue%2Cgithub-stats">
 </picture>
-+++
++++++
 
-=== https://wakatime.com/@kphrx[Wakatime]
-+++
+==== https://wakatime.com/@kphrx[Wakatime]
++++++
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kphrx&theme=github_dark&border_color=41454b&bg_color=00000000&layout=compact&langs_count=8&range=last_7_days">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kphrx&bg_color=00000000&layout=compact&langs_count=8&range=last_7_days">
   <img alt="github-readme-stats wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=kphrx&bg_color=00000000&layout=compact&langs_count=8&range=last_7_days">
 </picture>
-+++
++++++
+
+++++
+</details>
+++++
+
