@@ -29,14 +29,14 @@ whoami -> https://kpherox.dev
 === https://github.com/jstrieb/github-stats[GitHub Stats Visualization]
 +++++
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kphrx/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kphrx/github-stats/master/generated/overview.svg#gh-light-mode-only">
-  <img alt="github-stats overview" src="https://raw.githubusercontent.com/kphrx/github-stats/master/generated/overview.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://kpherox.dev/github-stats/overview.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://kpherox.dev/github-stats/overview.svg#gh-light-mode-only">
+  <img alt="github-stats overview" src="https://kpherox.dev/github-stats/overview.svg">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kphrx/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kphrx/github-stats/master/generated/languages.svg#gh-light-mode-only">
-  <img alt="github-stats languages" src="https://raw.githubusercontent.com/kphrx/github-stats/master/generated/languages.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://kpherox.dev/github-stats/languages.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://kpherox.dev/github-stats/languages.svg#gh-light-mode-only">
+  <img alt="github-stats languages" src="https://kpherox.dev/github-stats/languages.svg">
 </picture>
 +++++
 
